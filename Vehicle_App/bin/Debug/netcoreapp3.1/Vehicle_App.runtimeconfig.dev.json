@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/golsa/.dotnet/store/|arch|/|tfm|",
+      "/Users/golsa/.nuget/packages"
+    ]
+  }
+}

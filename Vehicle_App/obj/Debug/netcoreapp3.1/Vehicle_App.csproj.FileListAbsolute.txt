@@ -1,0 +1,12 @@
+/Users/golsa/Projects/Vehicle_application/Vehicle_App/bin/Debug/netcoreapp3.1/Vehicle_App.deps.json
+/Users/golsa/Projects/Vehicle_application/Vehicle_App/bin/Debug/netcoreapp3.1/Vehicle_App.runtimeconfig.json
+/Users/golsa/Projects/Vehicle_application/Vehicle_App/bin/Debug/netcoreapp3.1/Vehicle_App.runtimeconfig.dev.json
+/Users/golsa/Projects/Vehicle_application/Vehicle_App/bin/Debug/netcoreapp3.1/Vehicle_App.dll
+/Users/golsa/Projects/Vehicle_application/Vehicle_App/bin/Debug/netcoreapp3.1/Vehicle_App.pdb
+/Users/golsa/Projects/Vehicle_application/Vehicle_App/obj/Debug/netcoreapp3.1/Vehicle_App.csprojAssemblyReference.cache
+/Users/golsa/Projects/Vehicle_application/Vehicle_App/obj/Debug/netcoreapp3.1/Vehicle_App.AssemblyInfoInputs.cache
+/Users/golsa/Projects/Vehicle_application/Vehicle_App/obj/Debug/netcoreapp3.1/Vehicle_App.AssemblyInfo.cs
+/Users/golsa/Projects/Vehicle_application/Vehicle_App/obj/Debug/netcoreapp3.1/Vehicle_App.csproj.CoreCompileInputs.cache
+/Users/golsa/Projects/Vehicle_application/Vehicle_App/obj/Debug/netcoreapp3.1/Vehicle_App.dll
+/Users/golsa/Projects/Vehicle_application/Vehicle_App/obj/Debug/netcoreapp3.1/Vehicle_App.pdb
+/Users/golsa/Projects/Vehicle_application/Vehicle_App/obj/Debug/netcoreapp3.1/Vehicle_App.genruntimeconfig.cache
